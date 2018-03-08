@@ -1,0 +1,6 @@
+/root/Desktop/xmrig/build/CMakeFiles/rebuild_cache.dir
+/root/Desktop/xmrig/build/CMakeFiles/xmrig.dir
+/root/Desktop/xmrig/build/CMakeFiles/edit_cache.dir
+/root/Desktop/xmrig/build/src/3rdparty/libcpuid/CMakeFiles/rebuild_cache.dir
+/root/Desktop/xmrig/build/src/3rdparty/libcpuid/CMakeFiles/cpuid.dir
+/root/Desktop/xmrig/build/src/3rdparty/libcpuid/CMakeFiles/edit_cache.dir
